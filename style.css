@@ -49,7 +49,7 @@ h4 {
     }
 
     html {
-        overflow: hidden;
+        /* overflow: hidden; */
     }
 
     .navbar-brand a {
